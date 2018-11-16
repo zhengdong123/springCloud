@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/springCloud.iml" filepath="$PROJECT_DIR$/.idea/springCloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot2-helloword/springboot2-helloword.iml" filepath="$PROJECT_DIR$/springboot2-helloword/springboot2-helloword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot2-newcharacteristics/springboot2-newcharacteristics.iml" filepath="$PROJECT_DIR$/springboot2-newcharacteristics/springboot2-newcharacteristics.iml" />
     </modules>
   </component>
 </project>

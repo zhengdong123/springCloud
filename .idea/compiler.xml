@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot2-helloword" />
+        <module name="springboot2-newcharacteristics" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="springboot-helloword" target="1.7" />
       <module name="springboot2-helloword" target="1.7" />
+      <module name="springboot2-newcharacteristics" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

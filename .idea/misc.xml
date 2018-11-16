@@ -7,6 +7,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/springboot2-helloword/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot2-newcharacteristics/pom.xml" />
       </list>
     </option>
   </component>

@@ -12,7 +12,8 @@
 - [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
 
 #### 工程配置
-- chapter2-1-1：[2.0 新特性（一）：配置绑定全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
+- springboot2-newcharacteristics：[2.0 新特性（一）：配置绑定全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
+    > 单元测试如果需要获取`ApplicationContext` ,继承`AbstractJUnit4SpringContextTests ` 就可以。
 - chapter2-2-1：[2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
 
 #### Web开发
